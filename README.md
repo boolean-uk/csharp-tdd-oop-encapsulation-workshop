@@ -1,1 +1,3 @@
-# csharp-tdd-oop-encapsulation-workshop
+# C# TDD OOP Encapsulation Workshop
+
+##

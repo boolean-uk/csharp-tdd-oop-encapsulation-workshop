@@ -1,0 +1,15 @@
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\bin\Debug\net6.0\workshop.sample.exe
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\bin\Debug\net6.0\workshop.sample.deps.json
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\bin\Debug\net6.0\workshop.sample.runtimeconfig.json
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\bin\Debug\net6.0\workshop.sample.dll
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\bin\Debug\net6.0\workshop.sample.pdb
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.csproj.AssemblyReference.cache
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.AssemblyInfoInputs.cache
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.AssemblyInfo.cs
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.csproj.CoreCompileInputs.cache
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.dll
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\refint\workshop.sample.dll
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.pdb
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\workshop.sample.genruntimeconfig.cache
+C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\obj\Debug\net6.0\ref\workshop.sample.dll
