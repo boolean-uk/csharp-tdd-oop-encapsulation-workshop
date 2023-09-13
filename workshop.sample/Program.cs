@@ -13,7 +13,7 @@
 
             Console.WriteLine(t1.FirstName);
 
-            Console.WriteLine(t1.Age());
+            Console.WriteLine(t1.Age(true));
 
 
             Console.WriteLine("********** Student ****************");
@@ -23,7 +23,19 @@
             Console.WriteLine(s1.FavDrink());
 
             Console.WriteLine(s1.Subject);
-   
+
+
+
+            Console.WriteLine("********** Course ****************");
+
+            Course csharpCourse = new Course("C#", t1);
+            
+            csharpCourse.Students.Add(s1);
+            csharpCourse.Students.Add(new Student() { Name = "Annefleur" });
+
+            Console.WriteLine(csharpCourse.Name);
+            Console.WriteLine(csharpCourse.CourseTeacher.FirstName);
+            Console.WriteLine(csharpCourse.CourseTeacher.Age(true));
         }
     }
 }

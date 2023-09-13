@@ -8,9 +8,10 @@ namespace workshop.sample
 {
     public class Teacher
     {
-        private string _firstName;
-        private DateTime _dob;
-       
+  
+        private DateTime _dateOfBirth;
+        private string firstName;
+
 
         /// <summary>
         /// Method to calculate age using private member
@@ -18,11 +19,25 @@ namespace workshop.sample
         /// <returns>returns int age</returns>
         public int Age()
         {
-            int age = DateTime.Now.Year - _dob.Year;  
-            return (_dob > DateTime.Now.AddYears(-age)) ? age -- : age;                        
+            //return 48;
+            int age = DateTime.Now.Year - _dateOfBirth.Year;  
+            return (_dateOfBirth > DateTime.Now.AddYears(-age)) ? age -- : age;                        
+        }
+        public int Age(bool letLieAboutMyAge)
+        {
+            if(letLieAboutMyAge)
+            {
+                return 31;
+            }
+            else
+            {
+                int result = Age();
+                return result;
+
+            }
         }
         
-        public DateTime Dob { get { return _dob;} set { _dob = value; } }
-        public string FirstName { get { return _firstName; } set { _firstName = value; } }
+        public DateTime Dob { get { return _dateOfBirth;} set { _dateOfBirth = value; } }
+        public string FirstName { get => firstName.ToUpper(); set => firstName = value; }
     }
 }

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = workshop.sample
-build_property.ProjectDir = C:\Boolean\csharp-tdd-oop-encapsulation-workshop\workshop.sample\
+build_property.ProjectDir = D:\_BooleanCSharp2\csharp-tdd-oop-encapsulation-workshop\workshop.sample\

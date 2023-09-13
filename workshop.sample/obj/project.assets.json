@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Boolean\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\workshop.sample.csproj",
+      "projectUniqueName": "D:\\_BooleanCSharp2\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\workshop.sample.csproj",
       "projectName": "workshop.sample",
-      "projectPath": "C:\\Boolean\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\workshop.sample.csproj",
+      "projectPath": "D:\\_BooleanCSharp2\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\workshop.sample.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Boolean\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\obj\\",
+      "outputPath": "D:\\_BooleanCSharp2\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

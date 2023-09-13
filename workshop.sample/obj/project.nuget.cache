@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlGKNrdhATKbH9EXrvZA8rl8vjHjgXnMaIlNf7X61ardsU9V2jJESItXt7dI77HDK0I+lqkPbc6dm+33JCZW5Q==",
+  "dgSpecHash": "PLDT9wVzf6DzyLvbEp51lmxw/7IQniU4zJZsIduYhJh1yuDhyq44clFvtttcKWfx38laLtjsFa8OjDOe8VOQmQ==",
   "success": true,
-  "projectFilePath": "C:\\Boolean\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\workshop.sample.csproj",
+  "projectFilePath": "D:\\_BooleanCSharp2\\csharp-tdd-oop-encapsulation-workshop\\workshop.sample\\workshop.sample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
